@@ -1,4 +1,4 @@
-# privacypolicy
+Our Privacy Policy
 
 
 Spelling Bee Cheat built the Spelling Bee Cheat app as an Ad Supported app. This SERVICE is provided by Spelling Bee Cheat at no cost and is intended for use as is.
