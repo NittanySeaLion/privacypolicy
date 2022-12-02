@@ -57,7 +57,8 @@ Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 Word Lists
-The word list used in this app is a filter amalgamation of words found in https://github.com/hackerb9/gwordlist and https://github.com/cviebrock/wordlists.
+
+The word list used in this app is a filtered amalgamation of words found in https://github.com/hackerb9/gwordlist and https://github.com/cviebrock/wordlists.
 
 
 This policy is effective as of 2022-11-29
